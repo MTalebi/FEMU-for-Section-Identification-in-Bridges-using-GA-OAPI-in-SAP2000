@@ -1,8 +1,7 @@
 # FEMU for Section Identification in Bridges Using GA-OAPI in SAP2000
 
 **Author:**  
-**Mohammad Talebi-Kalaleh**  
-<talebika@ualberta.ca>
+**Mohammad Talebi-Kalaleh**
 
 **GitHub Repository:**  
 [https://github.com/MTalebi/FEMU-for-Section-Identification-in-Bridges-using-GA-OAPI-in-SAP2000/tree/main](https://github.com/MTalebi/FEMU-for-Section-Identification-in-Bridges-using-GA-OAPI-in-SAP2000/tree/main)
